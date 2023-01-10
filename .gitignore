@@ -1,0 +1,10 @@
+/.vs
+/Binaries
+/Build
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
+
+/Plugins/MultiplayerSessions/Binaries
+/Plugins/MultiplayerSessions/Intermediate
